@@ -1,51 +1,45 @@
-# 🛡️ Portfolio Web & Sécurité - [Ton Nom]
+🛡️ Web & Security Portfolio
 
-Bienvenue sur mon portfolio personnel !  
-Je suis **Développeur Web Full Stack** et **Consultant en Cybersécurité**, spécialisé dans la création d'applications performantes et sécurisées.
+Welcome to my personal portfolio!
+I’m a Full Stack Web Developer and Cybersecurity Consultant, specialized in building performant and secure applications.
 
-🚀 Ce portfolio a été entièrement conçu et développé à la main en **HTML**, **CSS** et **JavaScript**, sans frameworks ni générateurs de sites.
-
----
-
-## 🔎 Aperçu
-
-🌐 [Lien vers le portfolio en ligne](https://tonpseudo.github.io/portfolio/)  
-📸 ![Aperçu](./images/screenshot.png) *(optionnel si tu mets une image du site)*
+🚀 This portfolio was fully designed and developed by hand using HTML, CSS, and JavaScript, with no frameworks or site generators.
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🔎 Overview
+
+🌐 [Live portfolio link](https://DevXSec.github.io/portfolio/)  
+
+---
+
+## 🛠️ Technologies Used
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript Vanilla**  
-- Responsive Design (Mobile First)  
-- Respect des bonnes pratiques **OWASP**  
-- Performances optimisées (code léger, animations discrètes)
+- **Vanilla JavaScript**  
+- Responsive Design (Mobile First) 
+- Best practices aligned with **OWASP** guidelines  
+- Optimized performance (lightweight code, subtle animations)
 
 ---
 
-## 🛡️ Sécurité intégrée
+## 🛡️ Built-in Security
 
-Ce projet n'est pas qu'une simple vitrine ! Il illustre également mes compétences en sécurité :
-- Code **sanitisé** et respect des bonnes pratiques pour éviter XSS/Injection
-- Structure **minimaliste** pour limiter la surface d'attaque
-- Aucun framework tiers, dépendances minimales (limitation des failles Supply Chain)
-- Headers de sécurité recommandés pour l’hébergement (CSP, X-Content-Type-Options, etc.)
-
----
-
-## ⚙️ Fonctionnalités
-
-- **Navigation fluide** avec effets de scroll en JS
-- **Animations légères** pour l'affichage des sections
-- **Dark Theme** par défaut
-- **Section Projets** détaillant des cas pratiques (Pentest, Dev Full Stack)
-- **Section Compétences** (Dev + Sécu)
-- **Contact facile** avec lien vers LinkedIn, GitHub et adresse email
+This project is more than just a showcase — it also reflects my security skills:
+- Sanitized code following best practices to prevent XSS/Injection
+- Minimalist structure to reduce the attack surface
+- No third-party frameworks, minimal dependencies (mitigates supply chain risks)
+- Recommended security headers for deployment (CSP, X-Content-Type-Options, etc.)
 
 ---
 
-## 🚀 Déploiement
+## ⚙️ Features
 
-Tu peux voir le portfolio ici 👉 [https://DevXSec.github.io/portfolio/](https://DevXSec.github.io/portfolio/)
+- **Smooth navigation** with JavaScript scroll effects
+- **Light animations** for section transitions
+- **Dark theme** enabled by default
+- **Projects section** showcasing real-world use cases (Pentest, Full Stack Dev)
+- **Skills section** (Development + Security)
+- **Easy contact** with direct links to LinkedIn, GitHub, and email
+
