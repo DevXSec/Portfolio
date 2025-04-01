@@ -9,7 +9,7 @@ I’m a Full Stack Web Developer and Cybersecurity Consultant, specialized in bu
 
 ## 🔎 Overview
 
-🌐 [Live portfolio link](https://DevXSec.github.io/portfolio/)  
+🌐 [Live portfolio link](https://DevXSec.github.io/portfolio/src)  
 
 ---
 
